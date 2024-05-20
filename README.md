@@ -18,4 +18,22 @@ Sebelum memulai program nya silahkan menginstall module-module python ny
 $ python -m pip install opencv-python
 ```
 
+### face_recognition
+
+```
+$ python -m pip install face_recognition
+```
+
+### cvzone
+
+```
+$ python -m pip install cvzone
+```
+
+### firebase_admin
+
+```
+$ python -m pip install firebase_admin
+```
+
 
