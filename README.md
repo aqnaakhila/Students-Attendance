@@ -9,3 +9,13 @@ Anggota Kelompok :
 5. Aqna Akhila Beniswita Putra
 
 
+## Attention 
+
+Sebelum memulai program nya silahkan menginstall module-module python ny
+### Opencv-python
+
+```
+$ python -m pip install opencv-python
+```
+
+
